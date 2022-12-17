@@ -29,7 +29,7 @@ solution_1(4000000) # 4613732
 
 import math
 """
-a lot of math went into a closed for solution, too much for me to comment. But
+a lot of math went into a closed form solution, too much for me to comment. But
 it works!
 """
 # O(1) time, O(1) space
